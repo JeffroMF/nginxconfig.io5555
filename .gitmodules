@@ -1,0 +1,6 @@
+[submodule "node-ios-device"]
+	path = node-ios-device
+	url = ssh://git@github.com/tidev/node-ios-device
+[submodule "ci555"]
+	path = ci555
+	url = git@github.com:JeffroMF/ci555.git
